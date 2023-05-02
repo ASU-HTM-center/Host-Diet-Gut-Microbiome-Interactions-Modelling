@@ -26,3 +26,5 @@ The expected output fo rthe current model configuration is a dietary input of 64
 Adjust the Dietary Input for each participant, as stated above.
 
 ## Host-Diet-Gut Microbiome Interactions Mixed Model
+
+The SAS code for this model was developed by Fanchao at the Translational Research Institute in Florida. The model requires no additional instructions to use. 
